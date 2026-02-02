@@ -1,6 +1,6 @@
 <h1>Hey there, I am Nils 👋</h1>
 📌 I'm a software devoloper from Munichy<br>
-👉 Check out my projects here: wwww.portfolio.com  
+👉 Check out my projects here: www.portfolio.com  
 
 <h2>I code with</h2>
 <div align="left">
